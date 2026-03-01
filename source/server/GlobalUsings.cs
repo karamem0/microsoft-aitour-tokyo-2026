@@ -1,0 +1,17 @@
+//
+// Copyright (c) 2026 karamem0
+//
+// This software is released under the MIT License.
+//
+// https://github.com/karamem0/microsoft-aitour-tokyo-2026/blob/main/LICENSE
+//
+
+#pragma warning disable IDE0005
+
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+
+#pragma warning restore IDE0005
